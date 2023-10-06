@@ -3,6 +3,7 @@
 ## Configurations :
 
 1. **app/build.gradle.kts**
+      
       1.1 package untuk icons
          `implementation("androidx.compose.material:material-icons-core")`
     
